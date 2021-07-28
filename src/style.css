@@ -1,1 +1,9 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+div#container {
+  background-color: blueviolet;
+  font-size: xx-large;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
